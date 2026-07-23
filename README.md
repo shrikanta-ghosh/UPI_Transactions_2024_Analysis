@@ -30,3 +30,6 @@ Downloaded from **Kaggle.**
 - **Younger users are relatively more vulnerable:** While the **26–35 age group** generates the **highest transaction volume**, the **18–25 age group** has the **highest proportion of fraudulent transactions**, suggesting younger users may be more susceptible to fraud relative to their activity level.
 
 - **Fraud peaks during evening hours:** The **6 PM–12 AM** time window records the **highest number of fraud-flagged transactions**, followed closely by **12 PM–6 PM**, while **12 AM–6 AM** has the fewest fraud cases. This indicates that fraud generally **tracks peak user activity** rather than occurring predominantly during overnight hours.
+<img width="1658" height="962" alt="image" src="https://github.com/user-attachments/assets/3b7b8edb-92cc-4827-8d7e-a6d7adcdcd2b" />
+<img width="1662" height="957" alt="image" src="https://github.com/user-attachments/assets/9e21e2d7-d694-4c41-bb22-7b2183f92e38" />
+
