@@ -6,7 +6,7 @@ This project analyzes a dataset of **2.5 lakh (250,000) UPI transactions** from 
 
 ## Source of the Data
 Downloaded from **Kaggle.**
-**Link**: https://www.kaggle.com/code/yogeshwarchoudhary/upi-transaction-2024-advanced-analysis/input
+**G-Drive Link**: https://drive.google.com/drive/folders/1F6JDZL2vBz5JtK3bXsB4imXP0abbGSTo?usp=drive_link
 <img width="1911" height="1072" alt="image" src="https://github.com/user-attachments/assets/a947a45e-09ae-40a6-9b6f-8eeec87ed928" />
 
 ## Tools Used
