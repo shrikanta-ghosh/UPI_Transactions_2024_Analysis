@@ -6,6 +6,8 @@ This project analyzes a dataset of **2.5 lakh (250,000) UPI transactions** from 
 
 ## Source of the Data
 Downloaded from **Kaggle.**
+<img width="1911" height="1072" alt="image" src="https://github.com/user-attachments/assets/a947a45e-09ae-40a6-9b6f-8eeec87ed928" />
+
 ## Tools Used
 **SQL** (data querying & analysis), **Power BI** (dashboarding & visualization)
 ## Top Insights from SQL Queries
